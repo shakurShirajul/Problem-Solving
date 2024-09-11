@@ -2,3 +2,7 @@ Important Docs
 test.cpp
 .exe
 .bin
+test.exe
+.vscode
+test.bin
+.gitignore
